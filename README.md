@@ -5,4 +5,5 @@ How to run?
 4. swiftc main.swift (optional because i did for you)
 5. ./main
 6. Enter the text end press Enter
-   Hope to see your response about my code soon. Thank you so much for giving your time to review my stupid code <3
+
+Hope to see your response about my code soon. Thank you so much for giving your time to review my stupid code <3
